@@ -1,0 +1,213 @@
+{
+    "recommendation-list": [{
+            "id": 1,
+            "title": "Solo Leveling",
+            "score": "8.91",
+            "date_release": "4 Mar 2018",
+            "link": "https://myanimelist.net/manga/121496/Solo_Leveling"
+        },
+        {
+            "id": 2,
+            "title": "Tower Of God",
+            "score": "8.59",
+            "date_release": "5 Jul 2010",
+            "link": "https://myanimelist.net/manga/122663/Tower_of_God"
+        },
+        {
+            "id": 3,
+            "title": "The Horizon",
+            "score": "8.57",
+            "date_release": "30 Mar 2016",
+            "link": "https://myanimelist.net/manga/125036/The_Horizon"
+        },
+        {
+            "id": 4,
+            "title": "Sweet Home",
+            "score": "8.31",
+            "date_release": "12 Oct 2017",
+            "link": "https://myanimelist.net/manga/124845/Sweet_Home"
+        },
+        {
+            "id": 5,
+            "title": "Weak Hero",
+            "score": "8.32",
+            "date_release": "5 May 2018",
+            "link": "https://myanimelist.net/manga/128231/Weak_Hero"
+        },
+        {
+            "id": 6,
+            "title": "Noblesse",
+            "score": "8.31",
+            "date_release": "30 Dec 2007",
+            "link": "https://myanimelist.net/manga/29983/Noblesse"
+        },
+        {
+            "id": 7,
+            "title": "Lookism",
+            "score": "8.02",
+            "date_release": "20 Nov 2014",
+            "link": "https://myanimelist.net/manga/111202/Lookism"
+        },
+        {
+            "id": 8,
+            "title": "Dr Frost",
+            "score": "8.09",
+            "date_release": "2 Feb 2011",
+            "link": "https://myanimelist.net/manga/40345/Dr_Frost"
+        },
+        {
+            "id": 9,
+            "title": "Wind Breaker",
+            "score": "8.19",
+            "date_release": "15 Dec 2013",
+            "link": "https://myanimelist.net/manga/103237/Wind_Breaker"
+        },
+        {
+            "id": 10,
+            "title": "The God Of High School",
+            "score": "7.91",
+            "date_release": "8 Apr 2011",
+            "link": "https://myanimelist.net/manga/111996/The_God_of_High_School"
+        },
+        {
+            "id": 11,
+            "title": "Dokgo",
+            "score": "7.91",
+            "date_release": "7 Dec 2012",
+            "link": "https://myanimelist.net/manga/103293/Dokgo"
+        },
+        {
+            "id": 12,
+            "title": "The Breaker",
+            "score": "8.52",
+            "date_release": "1 Jun 2007",
+            "link": "https://myanimelist.net/manga/8586/The_Breaker"
+        },
+        {
+            "id": 13,
+            "title": "Skill Of Lure",
+            "score": "8.12",
+            "date_release": "1 Mar 2013",
+            "link": "https://myanimelist.net/manga/88991/Skill_of_Lure"
+        },
+        {
+            "id": 14,
+            "title": "Orange Marmalade",
+            "score": "8.00",
+            "date_release": "12 Feb 2012",
+            "link": "https://myanimelist.net/manga/54897/Orange_Marmalade"
+        },
+        {
+            "id": 15,
+            "title": "Dokgo Rewind",
+            "score": "7.86",
+            "date_release": "7 Mar 2014",
+            "link": "https://myanimelist.net/manga/110604/Dokgo_Rewind"
+        },
+        {
+            "id": 16,
+            "title": "About Death",
+            "score": "8.27",
+            "date_release": "5 Sep 2012",
+            "link": "https://myanimelist.net/manga/50027/About_Death"
+        },
+        {
+            "id": 17,
+            "title": "Cheese in the Trap Season 4",
+            "score": "8.31",
+            "date_release": "2 Sep 2015",
+            "link": "https://myanimelist.net/manga/111211/Cheese_in_the_Trap_Season_4"
+        },
+        {
+            "id": 18,
+            "title": "Spirit Fingers",
+            "score": "8.25",
+            "date_release": "16 May 2015",
+            "link": "https://myanimelist.net/manga/112370/Spirit_Fingers"
+        },
+        {
+            "id": 19,
+            "title": "Your Letter",
+            "score": "8.17",
+            "date_release": "11 Aug 2018",
+            "link": "https://myanimelist.net/manga/120875/Your_Letter"
+        },
+        {
+            "id": 20,
+            "title": "Hellper",
+            "score": "7.91",
+            "date_release": "12 Oct 2011",
+            "link": "https://myanimelist.net/manga/61583/Hellper"
+        },
+        {
+            "id": 21,
+            "title": "My Secret Brother",
+            "score": "7.80",
+            "date_release": "8 Aug 2014",
+            "link": "https://myanimelist.net/manga/103117/My_Secret_Brother"
+        },
+        {
+            "id": 22,
+            "title": "The Legend Of Maian",
+            "score": "7.75",
+            "date_release": "2007",
+            "link": "https://myanimelist.net/manga/9541/The_Legend_of_Maian"
+        },
+        {
+            "id": 23,
+            "title": "Diamond Dust",
+            "score": "7.75",
+            "date_release": "17 Apr 2012",
+            "link": "https://myanimelist.net/manga/54925/Diamond_Dust"
+        },
+        {
+            "id": 24,
+            "title": "Knight Run",
+            "score": "7.73",
+            "date_release": "4 May 2009",
+            "link": "https://myanimelist.net/manga/39969/Knight_Run"
+        },
+        {
+            "id": 25,
+            "title": "Shall We Have Dinner Tonight",
+            "score": "7.73",
+            "date_release": "12 Nov 2013",
+            "link": "https://myanimelist.net/manga/99659/Shall_we_Have_Dinner_Tonight"
+        },
+        {
+            "id": 26,
+            "title": "Transfer Student Storm Bringer",
+            "score": "7.71",
+            "date_release": "5 Apr 2010",
+            "link": "https://myanimelist.net/manga/30457/Transfer_Student_Storm_Bringer"
+        },
+        {
+            "id": 27,
+            "title": "Transparent Cohabitation",
+            "score": "7.71",
+            "date_release": "18 Apr 2016",
+            "link": "https://myanimelist.net/manga/112382/Transparent_Cohabitation"
+        },
+        {
+            "id": 28,
+            "title": "Dokgo 2",
+            "score": "7.49",
+            "date_release": "10 Dec 2016",
+            "link": "https://myanimelist.net/manga/118907/Dokgo_2"
+        },
+        {
+            "id": 29,
+            "title": "Nowhere Boy",
+            "score": "7.43",
+            "date_release": "15 Jun 2011",
+            "link": "https://myanimelist.net/manga/41925/Nowhere_Boy"
+        },
+        {
+            "id": 30,
+            "title": "Fight Class",
+            "score": "7.24",
+            "date_release": "15 Aug 2016",
+            "link": "https://myanimelist.net/manga/118805/Fight_Class_3"
+        }
+    ]
+}
